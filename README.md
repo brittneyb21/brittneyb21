@@ -7,7 +7,9 @@
 Front end developer self-learning one step at a time. I love creating content around tech and lifestyle.
 
 ## Skills
-
+HTML
+CSS
+Javascript
 
 Here are some ideas to get you started:
 
