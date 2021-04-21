@@ -1,7 +1,7 @@
 ### Welcome
 
 <!--
-**brittneyb21/brittneyb21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**brittneyb21/brittneyb21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 ## Brittney Bermudez
 Front end developer self-learning one step at a time. I love creating content around tech and lifestyle.
@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about front-end development.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love to read, explore Florida, and learn.
--->
