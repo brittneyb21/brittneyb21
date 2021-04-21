@@ -11,7 +11,7 @@ HTML
 CSS
 Javascript
 
-Here are some ideas to get you started:
+## Get to know me
 
 - 🔭 I’m currently working on becoming a full-stack developer
 - 🌱 I’m currently learning JavaScript
